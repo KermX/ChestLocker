@@ -1,0 +1,4 @@
+name: ChestLocker
+version: '${project.version}'
+main: me.kermx.chestlocker.ChestLocker
+api-version: '1.20'
